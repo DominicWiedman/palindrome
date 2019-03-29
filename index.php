@@ -38,7 +38,3 @@ function searchPalindrome($palindrome, $reverse, $t, $s)
 }
 
 ?>
-
-<?php
-palindrome("Аргентина манит неграа")
-?>
